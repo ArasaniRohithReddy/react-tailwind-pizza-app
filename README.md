@@ -47,3 +47,6 @@ npm / yarn start
 
 
 ## Happy Coding!
+
+Project Contributor<br/>
+<b>Arasani Rohith Reddy</b>
